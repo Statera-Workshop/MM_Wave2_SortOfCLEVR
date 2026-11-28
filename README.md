@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_wave2_sortofclevr)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_Wave2_SortOfCLEVR
 
 **Visual question answering convergence on Sort-of-CLEVR - PAI-SG Multimodal Wave 2**
